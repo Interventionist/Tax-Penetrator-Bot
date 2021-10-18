@@ -7,7 +7,7 @@
 [![Click !](https://i.imgur.com/o473wLS.jpg)](https://www.youtube.com/watch?v=XvGgKr-o8c4)
 
 
-# Features
+## Features
 - Quick sniper with keybind, to be the fastest at the moment the contract is released (see video), and quick for contract features like big taxes/anti buy for seconds at launch
 - Sounds (cal. 50 sniper, hitmarker when sniping complete, grenade launcher when selling, honeypot, taxes)
 - Anti-buy detector, Honeypot detector, Big taxes detector -> the bot waits to buy (you can set taxes tolerance)

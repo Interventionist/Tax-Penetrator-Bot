@@ -1,6 +1,9 @@
+![
+
 # Tax Penetrator Bot
 > Sniper bot that watches when taxes/anti buy are removed from a contract, then quick snipes, with honeypot detector, and also keybinding for fair launches. Made for Pancakeswap.
 
+![youtube](https://www.youtube.com/watch?v=XvGgKr-o8c4)
 
 ## Features
 - Quick sniper with keybind, to be the fastest at the moment the contract is released (see video), and quick for contract features like big taxes/anti buy for minutes at launch

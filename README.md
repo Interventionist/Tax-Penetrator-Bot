@@ -1,5 +1,3 @@
-![Image](https://i.imgur.com/LCB9143.jpg)
-
 # Tax Penetrator Bot
 > Sniper bot that watches when taxes/anti buy are removed from a contract, then quick snipes, with honeypot detector, and also keybinding for fair launches. Made for Pancakeswap.
 

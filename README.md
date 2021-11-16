@@ -21,4 +21,4 @@
 
 ## If you want to buy the bot with BNB / For any informations : write me on discord : Void#3970 or telegram : @Interventionist590
 
-## Link : https://linktr.ee/interventionist
+
